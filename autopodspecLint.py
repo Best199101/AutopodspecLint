@@ -103,10 +103,10 @@ def podPush():
 
 
 updateVersion()
-# podCmd()
-# libLint()
-# gitPush()
-# podPush()
+podCmd()
+libLint()
+gitPush()
+podPush()
 
 
 
